@@ -1,1 +1,1 @@
-worker: ./appuselfbot.py
+worker: ./run.bat
